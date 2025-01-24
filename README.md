@@ -1,7 +1,11 @@
 
 
-# **FastAPI Role-Based Access Control Project**
+---
 
+# ***FastAPI Role-Based Access Control Project***
+
+
+---
 
 
 This project is a FastAPI-based application with role-based permissions for users. It includes two main entities: **Users** and **Products**. The application uses **PostgreSQL** as the database and provides role-specific access control for admins, managers, and users.
